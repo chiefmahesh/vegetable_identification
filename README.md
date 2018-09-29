@@ -22,6 +22,6 @@ Above script will give result like this:
 Evaluation time (1-image): 0.294s
 
 Tomato (score=0.90072)
+
 ...
-..
 
