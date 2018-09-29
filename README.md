@@ -6,7 +6,7 @@ Sample Image Size:
 
 IMAGE_SIZE=224
 
-Architecture Used:
+Architecture Used: Mobilenet
 
 ARCHITECTURE="mobilenet_0.50_${IMAGE_SIZE}"
 
