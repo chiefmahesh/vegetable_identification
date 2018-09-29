@@ -6,6 +6,7 @@ Final Steps for training and optimising(Reference has been taken from Tensorflow
 Sample Image Size:
 
 IMAGE_SIZE=224
+
 Architecture Used:
 
 ARCHITECTURE="mobilenet_0.50_${IMAGE_SIZE}"
