@@ -1,5 +1,4 @@
-# vegetable_identification
-Identify Vegetables using Tensowflow
+# Vegetables identification using Tensowflow
 
 Final Steps for training and optimising(Reference has been taken from Tensorflow for Poets 2)
 
