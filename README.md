@@ -2,7 +2,7 @@
 
 Final Steps for training and optimising(Reference has been taken from Tensorflow for Poets 2)
 
-For setup and installtion you can follow this link
+For setup, installtion and other detals you can refer this link:
 
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/#0
 
